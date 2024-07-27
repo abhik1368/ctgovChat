@@ -41,7 +41,7 @@ Create a JSON configuration file (e.g., `config.json`) with the following struct
 
 ## Usage
 
-1. **Prepare Configuration File**: Ensure you have your configuration file (`config2.json`) ready with appropriate details.
+1. **Prepare Configuration File**: Ensure you have your configuration file (`config.json`) ready with appropriate details.
 2. **Run the Script**: Execute the script using Python:
    \`\`\`bash
    python ctgovchat.py
