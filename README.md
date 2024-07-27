@@ -1,4 +1,3 @@
-"""
 # ctgovchat.py
 
 This script is designed to connect to a PostgreSQL database, retrieve schema information, and interact with an OpenAI model to generate SQL queries based on user questions about the database.
