@@ -1,0 +1,13 @@
+{
+  "openAIAPIKey": "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",
+  "openAIModel": "gpt-4o",
+  "dbTimeoutMs": 5000,
+  "apiTimeoutMs": 5000,
+  "postgresConnection": {
+    "host": "aact-db.ctti-clinicaltrials.org",
+    "port": 5432,
+    "database": "aact",
+    "user": "abhik1368",
+    "password": "Clinical@1121"
+  }
+}
