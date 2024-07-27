@@ -23,7 +23,7 @@ This script is designed to connect to a PostgreSQL database, retrieve schema inf
 
 Create a JSON configuration file (e.g., `config2.json`) with the following structure:
 
-\`\`\`json
+```json
 {
   "openAIAPIKey": "your-openai-api-key",
   "openAIModel": "model-name",
@@ -37,7 +37,7 @@ Create a JSON configuration file (e.g., `config2.json`) with the following struc
     "password": "your-db-password"
   }
 }
-\`\`\`
+```
 
 ## Usage
 
