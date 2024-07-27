@@ -21,7 +21,7 @@ This script is designed to connect to a PostgreSQL database, retrieve schema inf
 
 ## Configuration
 
-Create a JSON configuration file (e.g., `config2.json`) with the following structure:
+Create a JSON configuration file (e.g., `config.json`) with the following structure:
 
 ```json
 {
